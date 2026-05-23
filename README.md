@@ -35,4 +35,4 @@ Integrates a fully decoupled **Gradio UI** web server layer wrapped around core 
 
 ### Prerequisites
 ```bash
-pip install -U langchain langchain-community langchain-google-genai gradio
+pip install -U langchain langchain-community langchain-google-genai streamlit
